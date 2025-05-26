@@ -5,7 +5,7 @@
 🐍 I'm confident in Python and regularly work with tools like pandas, NumPy, matplotlib, seaborn, and scikit-learn.  
 🧠 I have strong experience in data preprocessing and feature engineering, and I'm now actively improving my machine learning skills.  
 🌱 Currently working on projects like Titanic Survival Prediction, with a focus on end-to-end model development and evaluation.  
-📫 You can reach me at: [hasanpireci92@gmail.com]
+📫 You can reach me at: hasanpireci92@gmail.com
 
 ---
 
