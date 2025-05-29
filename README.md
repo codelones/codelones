@@ -21,7 +21,8 @@
 
 ## 📌 Projects
 
-- `titanic-survival-prediction`: Predicting passenger survival with ML  
+- `titanic-survival-prediction`: Predicting passenger survival with ML
+- `advertising-sales-prediction`: Predicting product sales using linear regression and visual analysis
 - [More projects coming soon – follow to stay updated!]
 
 ---
