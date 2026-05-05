@@ -24,7 +24,6 @@
 - Kaggle Public Score: **0.11893** (Top 3% — 150th out of 4900+)
 - End-to-end ML pipeline: EDA → Feature Engineering → Stacking Ensemble
 - Tech: XGBoost, LightGBM, CatBoost, Optuna, Target Encoding
-- [GitHub](https://github.com/codelones/house-prices-ml-kaggle)
 - `titanic-survival-prediction`: Predicting passenger survival with ML
 - `advertising-sales-prediction`: Predicting product sales using linear regression and visual analysis
 - [More projects coming soon – follow to stay updated!]
